@@ -1,0 +1,13 @@
+{ 
+   "name":"nodeserver",
+   "description": "A sample Node.jsapp using Express4",
+
+
+  "dependencies": {
+    "express": "*"
+  },
+ 
+  "author": "your name ",
+  "license": "MIT"
+
+}
